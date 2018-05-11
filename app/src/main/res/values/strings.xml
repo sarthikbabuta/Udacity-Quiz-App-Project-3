@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">udacity3app</string>
+    <string name="heading">All Question are Compulsory?</string>
+    <string name="q1">Q1:OS computer abbreviation usually means ?</string>
+    <string name="q2">Q2:Who developed Yahoo?</string>
+    <string name="q3">Q3:DB computer abbreviation usually means ?</string>
+    <string name="q4">Q4:.JPG extension refers usually to what kind of file?</string>
+    <string name="q5">Q5:.TXT extension refers usually to what kind of file?</string>
+    <string name="q6">Q6:CD computer abbreviation usually means ?</string>
+    <string name="q7">Q7:What does EPROM stand for?</string>
+    <string name="q8">Q8:Which is the number which Multiply and Divide gives sames Answer?</string>
+</resources>
